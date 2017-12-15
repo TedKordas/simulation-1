@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  float: left;
+  padding-left: 250px;
+}
+
+.App-header {
+  background-color: #AB2A19;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 4em;
+  padding-right: 770px;
+  margin-top: 5px;
+}
+
+.Shelf-A {
+  background: #D34735;
+  border-radius: 10px;
+  height: 110px;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 350px;
+}
+
+.Shelf-B {
+  background: #D34735;
+  border-radius: 10px;
+  height: 110px;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 350px;
+}
+
+.Shelf-C {
+  background: #D34735;
+  border-radius: 10px;
+  height: 110px;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 350px;
+}
+
+.Shelf-D {
+  background: #D34735;
+  border-radius: 10px;
+  height: 110px;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 350px;
+}
+
+.A-text {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  margin-right: 200px;
+  padding-top: 25px;
+}
+
+.B-text {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  margin-right: 200px;
+  padding-top: 25px;
+}
+
+.C-text {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  margin-right: 200px;
+  padding-top: 25px;
+}
+
+.D-text {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  margin-right: 200px;
+  padding-top: 25px;
+}
+
+@keyframes App-logo-spin {
+
+}
